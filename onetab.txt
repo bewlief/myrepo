@@ -1,0 +1,260 @@
+https://zhuanlan.zhihu.com/p/32603898 | 自己动手写Servlet容器 - 知乎
+https://github.com/pkpk1234/BeggarServletContainer-doc/blob/master/chapter1.md | BeggarServletContainer-doc/chapter1.md at master · pkpk1234/BeggarServletContainer-doc
+https://www.cnblogs.com/crazyacking/p/5648520.html | 北岛知寒 - 开源爱好者
+https://mp.weixin.qq.com/s?__biz=MzAxMjEwMzQ5MA==&mid=2448886008&idx=1&sn=6136ce25d0ec5f276dd71d9a7b225bf3&chksm=8fb552d5b8c2dbc34539968c586131d2e1272ae3e1d0850eec48fc5a828ca2433b29c5a89148&scene=21#wechat_redirect | java进阶架构师
+https://mp.weixin.qq.com/s?__biz=MzAxMjEwMzQ5MA==&mid=2448885982&idx=1&sn=cb7f8bca3ec7057e66499df09ac5c7c7&chksm=8fb552f3b8c2dbe507b584633ef1d907225a8c0d0feb5d47ff0ee59600a91e0a5726e9253330&scene=21#wechat_redirect | java进阶架构师
+https://mp.weixin.qq.com/s?__biz=MzAxMjEwMzQ5MA==&mid=2448886060&idx=1&sn=8d52b7ea55257717145684e842f55a9c&chksm=8fb55301b8c2da178c0859307e6c8570e38ee979c780f151fc5b46aa5969c8572ad1864431d3&scene=21#wechat_redirect | java进阶架构师
+http://objcoding.com/2017/12/01/Docker(1)/ | Docker实战（一）
+
+http://www.codeceo.com/article/5-tips-for-reducing-your-java-garbage-collection-overhead.html | 降低Java垃圾回收开销的5条建议 – 码农网
+https://blog.csdn.net/lirenzuo/article/details/81182686 | ZGC这是要上天吗？ - 最简单的东西，往往包含了最复杂的实现。 - CSDN博客
+https://blog.csdn.net/GitChat/article/details/81172576 | 一文读懂分层架构 - GitChat技术杂谈 - CSDN博客
+https://zhuanlan.zhihu.com/p/51081224 | 超详细，新手都能看懂 ！使用SpringBoot+Dubbo 搭建一个简单的分布式服务 - 知乎
+https://zhuanlan.zhihu.com/p/55249159 | 跟着官方文档学Spring Boot (2) Getting Started - 知乎
+
+http://www.54tianzhisheng.cn/2018/10/13/flink-introduction/ | 《从0到1学习Flink》—— Apache Flink 介绍 | zhisheng的博客
+https://zhuanlan.zhihu.com/p/45550349 | ​【必收藏】不得不看的Spring相关资源整合 - 知乎
+https://zhuanlan.zhihu.com/p/52947147 | 一文讲解SpringBoot轻松搞定安全框架（Shiro） - 知乎
+https://zhuanlan.zhihu.com/p/52703411 | 大型互联网架构师谈：如何用Redis轻松实现秒杀系统 - 知乎
+https://zhuanlan.zhihu.com/p/46521460 | Springboot应用缓存实践之：Ehcache加持 - 知乎
+https://zhuanlan.zhihu.com/p/54048271 | Spring Boot引起的“堆外内存泄漏”排查及经验总结 - 知乎
+https://zhuanlan.zhihu.com/p/54770077 | 关于VSCode中工作区的讲解与使用工作区还你一个轻量 的VSCode - 知乎
+https://zhuanlan.zhihu.com/p/53932306 | Java程序猿笔记——基于redis分布式锁实现“秒杀” - 知乎
+https://zhuanlan.zhihu.com/p/54918874 | 前后端分离的最简单姿势 - 知乎
+https://www.zhihu.com/question/45413135/answer/547375094 | 请问哪位大神比较过spring cloud和dubbo，各自的优缺点是什么? - 知乎
+https://zhuanlan.zhihu.com/p/55173235 | 在Java中使用redisTemplate操作缓存 - 知乎
+https://zhuanlan.zhihu.com/p/54053639 | apache-commons家族的八兄弟（上） - 知乎
+https://zhuanlan.zhihu.com/p/54509699 | Guava Cache本地缓存在 Spring Boot应用中的实践 - 知乎
+https://github.com/qiurunze123/miaosha | qiurunze123/miaosha: ⛹️🐘秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+https://www.zhihu.com/question/41089988/answer/544543949 | 大家的公司的 Code Review 都是怎么做的？遇到过哪些问题？ - 知乎
+https://zhuanlan.zhihu.com/p/54604862 | 专栏上新 | 深度剖析 Java 多线程核心技术 - 知乎
+https://zhuanlan.zhihu.com/p/54607787 | REST与RESTFul API最佳实践 - 知乎
+http://www.cnblogs.com/chry/p/7250584.html | Spring Cloud 入门教程(二)： 配置管理 - 大象O无形 - 博客园
+https://www.cnblogs.com/liferecord/p/6880883.html | Spring Cloud 注册中心Eureka - vOoT - 博客园
+https://www.cnblogs.com/sam-uncle/p/8954401.html | spring cloud 入门系列二：使用Eureka 进行服务治理 - JAVA开发老菜鸟 - 博客园
+https://blog.csdn.net/hry2015/article/details/82597311 | Spring cloud系列十六 Eureka各个组件详解和相关配置详细说明 - 不积跬步无以至千里; 不积小流无以成江海 - CSDN博客
+https://www.cnblogs.com/cmyxn/p/7704319.html | springcloud干货之服务注册与发现（Eureka） - 叫我明羽 - 博客园
+
+https://my.oschina.net/u/157514/blog/395238 | 实现 tomcat 热加载证书 - 健哥大人的个人空间 - 开源中国
+https://github.com/HuangFromJYU/JSpring-IoC | HuangFromJYU/JSpring-IoC: 自己实现的一个精简版IoC容器
+https://yq.aliyun.com/articles/72769?utm_content=m_18060 | 递归函数（二）：编写递归函数的思路和技巧-云栖社区-阿里云
+https://blog.csdn.net/zhaozheng7758/article/details/8623549 | jstat命令详解 - zhaozheng7758的专栏 - CSDN博客
+https://yq.aliyun.com/topic/104?utm_campaign=redis&utm_medium=images&utm_source=renyimen&utm_content=m_26891 | Redis深入之道：原理解析、场景使用以及视频解读-云栖社区
+
+https://www.cnblogs.com/franson-2016/p/5563599.html | 关于使用由CA机构(EJBCA)颁发的证书实现SLLSocket双向认证服务端报null cert chain的解决方案 - Franson - 博客园
+https://blog.csdn.net/u014082714/article/details/80797361 | Maven项目读取resources下文件 - 大灰狼的专栏 - CSDN博客
+https://kb.cnblogs.com/page/162080/ | SSL协议详解_知识库_博客园
+https://www.cnblogs.com/franson-2016/p/5557259.html | SSLSocket实现服务端和客户端双向认证的例子 - Franson - 博客园
+https://www.cnblogs.com/wbjgogogo/p/5175752.html | SSLServerSocket代码实现 - 王必坚 - 博客园
+https://www.cnblogs.com/ehcoo/p/6368304.html | 【HTTPS】什么是SSL，HTTPS是如何工作的？ - ehcoo - 博客园
+https://blog.csdn.net/zhoumengshun/article/details/79100053 | JAVA发送HTTP请求(https SSL)实现案例 - 周梦顺 - CSDN博客
+https://blog.csdn.net/kwame211/article/details/78730705 | CGroup 介绍、应用实例及原理描述 - kwame211的博客 - CSDN博客
+http://m.it610.com/article/2113431.htm | JVM heap参数配置法则 - IT610.com - IT610.com
+https://www.zhihu.com/question/39317158/answer/440752183 | 广州旅游有哪些必吃，必玩的地方？ - 知乎
+http://www.codeceo.com/article/https-knowledge.html | 最详细的 HTTPS 科普扫盲帖 – 码农网
+http://www.codeceo.com/article/ssl-tls-run.html | SSL/TLS协议的运行原理浅析 – 码农网
+https://zhuanlan.zhihu.com/p/54146400 | SpringBoot 究竟是如何跑起来的? - 知乎
+http://www.codeceo.com/article/java-memory-model.html | Java内存模型的历史变迁 – 码农网
+http://www.codeceo.com/article/jvm-performance-guide.html | JVM性能优化入门指南 – 码农网
+http://www.codeceo.com/article/5-ways-work-place.html | 5个提高效率的编程工作环境 – 码农网
+https://blog.csdn.net/justloveyou_/article/details/64127789 | 彻头彻尾理解单例模式与多线程 - Rico's Blogs - CSDN博客
+https://blog.csdn.net/a19881029/article/details/11742361 | Java Secure(SSL/TLS) Socket实现 - 怀揣梦想，努力前行 - CSDN博客
+http://www.runoob.com/python3/python3-cgi-programming.html | Python3 CGI编程 | 菜鸟教程
+http://www.codeceo.com/article/10-best-editor-for-programmer.html | 10个程序员专用的的代码文本编辑器 – 码农网
+http://www.codeceo.com/article/spring-5-functional-web.html | Spring 5 新特性：函数式Web框架 – 码农网
+http://www.codeceo.com/article/10-github-open-source-project.html | 10款Github上最火爆的国产开源项目 – 码农网
+https://blog.csdn.net/zhangjg_blog/article/details/21486985 | 深入理解Java Class文件格式（一） - 张纪刚的博客 - CSDN博客
+https://gitee.com/geekerdream/advanced-notes/tree/master | advanced-notes: 个人的笔记，方式以思维导图形式书写。 - 码云 Gitee.com
+http://blog.jobbole.com/80241/ | 老码农冒死揭开行业黑幕：如何编写无法维护的代码 - 文章 - 伯乐在线
+https://zhuanlan.zhihu.com/p/32439765 | 一个调度系统的开发与性能优化 - 知乎
+https://zhuanlan.zhihu.com/p/33267165 | Java 8 并发教程：原子变量和 ConcurrentMap - 知乎
+https://zhuanlan.zhihu.com/p/32890550 | 比 Java 更强大的 kotlin.Deprecated - 知乎
+https://zhuanlan.zhihu.com/p/33076650 | 用Atomic实现锁 - 知乎
+http://www.codeceo.com/article/web-application-http-server.html | Web服务器、应用程序服务器、HTTP服务器区别 – 码农网
+http://www.codeceo.com/article/java-stack-memeory-fast.html | 哪个更快：Java堆还是本地内存 – 码农网
+http://blog.fens.me/nodejs-karma-jasmine/ | Karma和Jasmine自动化单元测试 | 粉丝日志
+https://blog.csdn.net/libsyc/article/details/78199850 | PhantomJS快速入门 - libsyc的博客 - CSDN博客
+https://blog.csdn.net/u014345282/article/details/49585833 | Angular （二） Jasmine单元测试和端到端测试 - Misslay's - CSDN博客
+http://www.cnblogs.com/hafiz/p/5360195.html | 史上最全的maven的pom.xml文件详解 - 阿豪聊干货 - 博客园
+http://www.codeceo.com/article/talk-about-concurrency.html | 从一个简单的Java单例示例谈谈并发 – 码农网
+http://www.codeceo.com/article/web-performance.html | 大型网站的灵魂——性能 – 码农网
+http://www.codeceo.com/article/100-java-interview-question.html | 100+经典Java面试题及答案解析 – 码农网
+http://www.codeceo.com/article/java-concurrent-mechanism.html | Java并发控制机制详解 – 码农网
+http://www.codeceo.com/article/java-socket.html | Java Socket 编程原理及教程 – 码农网
+http://www.codeceo.com/article/java-threadpool-executor.html | Java 线程池(ThreadPoolExecutor)原理分析与使用 – 码农网
+http://www.codeceo.com/article/jdk-object.html | 从 JDK 源码角度看 Object – 码农网
+https://www.cnblogs.com/gomysql/p/3675429.html | MySQL高可用架构之MHA - yayun - 博客园
+https://blog.csdn.net/renfengjun/article/details/41379901 | PXC（Percona XtraDB Cluster）集群安装 - renfengjun - CSDN博客
+https://www.cnblogs.com/linkstar/p/6510713.html | 手把手教你用Mysql-Cluster-7.5搭建数据库集群 - LinkinStar - 博客园
+http://os.51cto.com/art/201306/400878.htm | MySQL集群性能优化指南 - 51CTO.COM
+https://mp.weixin.qq.com/s/8a5QjPR6LO0EUhAkMSja0g | 互联网金融公司在分布式数据库的运维实践（PPT+脚本）
+http://www.codeceo.com/article/restful-http-api.html | 基于 SpringMVC 的 RESTful HTTP API 实践（服务端） – 码农网
+https://zhuanlan.zhihu.com/p/32110963 | 【干货合集】Java微服务开发指南——从Spring Cloud,Kubernetes到EDAS - 知乎
+
+http://objcoding.com/2017/05/07/SpringCloud(1)/ | SpringCloud微服务架构之服务注册与发现
+https://zhuanlan.zhihu.com/p/24957789 | Spring Boot系列(一)：Spring Boot 入门篇
+https://pymotw.com/2/contents.html | Python Module of the Week - Python Module of the Week
+http://blog.csdn.net/ddffr/article/details/73733850 | 安装geth 搭建以太坊私链 - DDFFR的博客 - CSDN博客
+http://blog.csdn.net/xc70203/article/details/77992511?skintest=skin3-template-test | 在CENTOS7上玩转Ethereum区块链(3)：Ethereum挖矿转账初体验 - CSDN博客
+http://blog.csdn.net/dogiant/article/details/54598980 | 区块链技术 之 以太坊(ethereum)开发环境安装 - CSDN博客
+http://www.8btc.com/gpu-mining | 以太坊Linux系统挖矿教程 | 巴比特
+https://ethereum.gitbooks.io/frontier-guide/content/mining_with_geth.html | CPU mining with geth | Ethereum Frontier Guide
+https://studygolang.com/articles/10847 | CentOS 6.5环境下编译安装go-ethereum - Go语言中文网 - Golang中文社区
+http://blog.csdn.net/chenyufeng1991/article/details/60467622 | 以太坊开发--阿里云ECS(centOS 6.8)安装Ethereum TestRPC - 乞力马扎罗的雪的博客 - CSDN博客
+http://blog.csdn.net/xc70203/article/details/77988473 | 在CENTOS7上玩转Ethereum区块链(2)：Ethereum搭建篇 - CSDN博客
+http://blog.csdn.net/xc70203/article/details/77983488 | 在CENTOS7上玩转Ethereum区块链(1)：虚机架设篇 - CSDN博客
+
+http://www.codeceo.com/article/the-implementation-principle-of-java-concurrent-collection.html | Java 并发集合的实现原理 – 码农网
+http://www.codeceo.com/article/built-in-lock-and-display-lock.html | Java 多线程之内置锁与显示锁 – 码农网
+http://www.codeceo.com/article/use-chrome-timeline-to-optimize-page-performance.html | 使用 Chrome Timeline 来优化页面性能 – 码农网
+http://www.codeceo.com/article/java-metaprograming.html | Java 元编程及其应用 – 码农网
+http://www.codeceo.com/article/java-enum-lookup-no-exception.html | Java 枚举查找并不抛异常的实现 – 码农网
+http://www.codeceo.com/article/the-theory-and-practice-of-java-thread-pool.html | Java 线程池的理论与实践 – 码农网
+http://www.codeceo.com/article/threadlocal-leak-analyze.html | Java 中 ThreadLocal 内存泄露的实例分析 – 码农网
+https://segmentfault.com/u/xixicat | xixicat - SegmentFault
+https://www.cnblogs.com/paddix/p/5309550.html | Java8内存模型—永久代(PermGen)和元空间(Metaspace) - liuxiaopeng - 博客园
+http://zhanjindong.com/2016/03/02/jvm-memory-tunning-notes | JVM内存调优相关的一些笔记（杂） - Jindong Zhan
+https://mp.weixin.qq.com/s/ei62eGzDrxKw4fDmlpD_lg | Java PermGen 去哪里了
+https://mp.weixin.qq.com/s/3IuTcDCTB3yIovp6o_vuKA | 一个Tomcat配置参数引发的血案
+http://www.javaranger.com/archives/1852 | Java6,7,8中的String.intern() – 字符串常量池 | JavaRanger - 专注JAVA WEB高性能程序开发、JVM、Mysql优化、业务架构
+https://mp.weixin.qq.com/s/Dld58f7Jg5aak1a4G8UuJw | 升级Java8可能会踩到的坑
+https://www.cnblogs.com/hucn/p/3572384.html | java.lang.OutOfMemoryError：GC overhead limit exceeded填坑心得 - nickolas - 博客园
+http://www.codeceo.com/article/java-thread-actuator-framework.html | Java 线程 Executor 框架详解与使用 – 码农网
+https://segmentfault.com/a/1190000012556776 | 单点登录系统实现 - JavaEE教程 - SegmentFault
+http://www.codeceo.com/article/java-reentrant-lock.html | Java 多线程并发编程之互斥锁 Reentrant Lock – 码农网
+https://yq.aliyun.com/articles/308794?utm_content=m_37977 | Redis在游戏开发中的典型应用-博客-云栖社区-阿里云
+http://www.codeceo.com/article/distributed-queue-based-programming.html | 分布式队列编程：模型、实战 – 码农网
+http://www.codeceo.com/article/java-web-template-code-generator.html | Java Web 模板代码生成器的设计与实现 – 码农网
+http://www.codeceo.com/article/10-java-things-you-not-know.html | 关于 Java 你不知道的 10 件事 – 码农网
+http://www.codeceo.com/article/spring-cloud-netflix.html | Spring Cloud Netflix 概览和架构设计 – 码农网
+http://www.codeceo.com/article/java-generic-details.html | Java 泛型详解 – 码农网
+http://www.codeceo.com/article/learn-spring.html | 最全面的 Spring 学习笔记 – 码农网
+http://www.codeceo.com/article/load-balancing-algorithms.html | 多种负载均衡算法及其 Java 代码实现 – 码农网
+http://www.codeceo.com/article/learn-java-lambda.html | 30 分钟 Java Lambda 入门教程 – 码农网
+https://help.aliyun.com/document_detail/50671.html | Python 接入示例_接入示例_微消息队列 LMQ_消息队列 MQ-阿里云
+https://pypi.python.org/pypi/paho-mqtt/1.2?spm=5176.doc50671.2.6.pEcXvC&file=1.2 | paho-mqtt 1.2 : Python Package Index
+https://yq.aliyun.com/ask/43101 | python 如何 实现 mqtt 接入阿里-问答-云栖社区-阿里云
+http://hw1287789687.iteye.com/blog/2284907 | 使用阿里云消息队列 - 简单的幸福 - ITeye博客
+http://www.codeceo.com/article/spring-mvc-apache-shiro.html | Spring MVC 中使用 Apache Shiro 安全框架详解 – 码农网
+http://www.codeceo.com/article/jvm-memory-allocation-and-recovery.html | 窥探JVM内存分配和回收的过程 – 码农网
+http://www.codeceo.com/article/make-java-class-parser.html | 自己动手实现一个 Java Class 解析器 – 码农网
+http://os.51cto.com/art/201307/401702.htm | 技术实战：基于 MHA 方式实现 MySQL 的高可用 - 51CTO.COM
+
+http://www.yiibai.com/mongodb/mongodb_java.html#article-start | Java连接MongoDB操作 - MongoDB教程™
+http://www.codeceo.com/article/java-dynamic-binding-mechanism.html | Java 动态绑定机制的内幕 – 码农网
+https://segmentfault.com/a/1190000012496298 | 网站性能优化——DNS预热与合并HTTP请求 - ELSE - SegmentFault
+http://www.codeceo.com/article/redblack-tree.html | 红黑树深入剖析及Java实现 – 码农网
+http://www.codeceo.com/article/java-scripting-programming-guide.html | Java 脚本化编程指南 – 码农网
+https://segmentfault.com/a/1190000012476796 | SpringBoot+SpringSecurity处理Ajax登录请求 - 个人文章 - SegmentFault
+http://www.codeceo.com/article/linux-sort-uniq-cut-wc.html | Linux中sort,uniq,cut,wc命令详解 – 码农网
+http://www.codeceo.com/article/nashorn-scripting-engine-tutorial.html | Java 8 的 Nashorn 脚本引擎教程 – 码农网
+http://www.codeceo.com/article/java-exception-misdirection.html | Java 异常处理的误区和经验总结 – 码农网
+http://www.codeceo.com/article/7-trends-java-unit-test.html | 编写更好的 Java 单元测试的 7 个技巧 – 码农网
+http://www.jianshu.com/p/7468643ead77 | spring cloud从看不懂到放弃 - 简书
+https://www.zhihu.com/question/45413135 | (1 封私信 / 22 条消息)请问哪位大神比较过spring cloud和dubbo，各自的优缺点是什么? - 知乎
+https://www.zhihu.com/question/47304987/answer/105505377 | (1 封私信 / 22 条消息)Spring boot与Spring cloud 是什么关系？ - 知乎
+http://blog.csdn.net/forezp/article/details/70148833 | 史上最简单的 SpringCloud 教程 | 终章 - 方志朋的专栏 - CSDN博客
+http://blog.csdn.net/forezp/article/details/69696915 | 史上最简单的 SpringCloud 教程 | 第一篇： 服务的注册与发现（Eureka） - 方志朋的专栏 - CSDN博客
+http://blog.csdn.net/forezp/article/details/61472783 | SpringBoot非官方教程 | 第二十五篇：2小时学会springboot - 方志朋的专栏 - CSDN博客
+
+https://www.zhihu.com/question/19795366 | (1 封私信 / 22 条消息)零基础学习 Hadoop 该如何下手？ - 知乎
+http://blog.fens.me/hadoop-mapreduce-log-kpi/ | 海量Web日志分析 用Hadoop提取KPI统计指标 | 粉丝日志
+https://www.zhihu.com/question/27344748 | (1 封私信 / 22 条消息)请问有哪些关于大数据以及hadoop好的学习课程？ - 知乎
+https://github.com/prometheus/client_java/blob/master/simpleclient_jetty_jdk8/src/test/java/io/prometheus/client/jetty/QueuedThreadPoolStatisticsCollectorTest.java | client_java/QueuedThreadPoolStatisticsCollectorTest.java at master · prometheus/client_java · GitHub
+http://blog.csdn.net/zqg5258423/article/details/53119009 | 基于prometheus监控k8s集群 - CSDN博客
+http://blog.csdn.net/huochen1994/article/details/76263078 | 使用Python和Flask编写Prometheus监控 - RickyHuo成长之路 - CSDN博客
+http://www.jianshu.com/p/f89b1447c4d6 | springboot输出metrics到prometheus - 简书
+http://www.codeceo.com/article/what-nodejs-for-java-developer.html | NodeJS 对于 Java 开发者而言是什么？ – 码农网
+https://segmentfault.com/l/1500000012142874 | 原生js插件开发实战 - ghostwu - SegmentFault 讲堂
+http://www.codeceo.com/article/compile-java-source-code-into-a-class-file.html | Java 源代码编译成 Class 文件的过程分析 – 码农网
+http://www.codeceo.com/article/spring-spring-mvc-mybatis-consolidate-file-configuration.html | Spring、Spring MVC、MyBatis 整合文件配置详解 – 码农网
+http://www.codeceo.com/article/tuning-garbage-collection-for-mission-critical-java-applications-part-two.html | 为任务关键型Java应用优化垃圾回收（下） – 码农网
+https://segmentfault.com/a/1190000012468203 | Python这些问题你会吗？ - 个人文章 - SegmentFault
+http://www.codeceo.com/article/java-8-comparator-sort-list.html | Java 8 比较器：如何对 List 排序 – 码农网
+http://www.codeceo.com/article/why-java8-not-use-stringbuilder.html | 为什么 Java 8 中不再需要 StringBuilder 拼接字符串 – 码农网
+http://www.codeceo.com/article/java-array-to-hashmap.html | Java 数组到 HashMap 之算法解释 – 码农网
+http://www.codeceo.com/article/java-thread-pool-create.html | Java 线程池的创建过程分析 – 码农网
+http://www.codeceo.com/article/java-8-database-crud-operations.html | Java 8 Streams 中的数据库 CRUD 操作 – 码农网
+http://www.codeceo.com/article/java-thread-pool-implementation.html | Java 线程池执行原理分析 – 码农网
+http://www.onexsoft.com/zh/oneproxy-high-consistent-cluster.html | OneProxy :: 多点强一至性只读流量分离集群，全活避免中间层单点故障! | 平民软件(OneXSoft)
+http://www.codeceo.com/article/java-virtual-machine-the-essential-guide.html | JVM 必备指南 – 码农网
+http://www.codeceo.com/article/how-to-be-competent-developer.html | 如何成为一名合格的（Java）程序员 – 码农网
+http://www.codeceo.com/article/using-threadpoolexecutor-to-parallelize.html | Java中使用ThreadPoolExecutor并行执行独立的单线程任务 – 码农网
+http://www.codeceo.com/article/concurrent-collaborative-producer-consumer-design-patterns.html | Java多线程之并发协作生产者消费者设计模式 – 码农网
+http://www.codeceo.com/article/java-concurrent-programming.html | 关于Java并发编程的总结和思考 – 码农网
+http://www.codeceo.com/article/jvm-parallel-programming.html | JVM并发编程模型览 – 码农网
+http://www.codeceo.com/article/inheritance-vs-composition-in-java.html | Java中的继承与组合 – 码农网
+http://www.codeceo.com/article/jvm-parameters.html | 实用 JVM 参数总结 – 码农网
+http://www.codeceo.com/article/java-8-api-design.html | Java 8 API 设计经验浅析 – 码农网
+http://www.runoob.com/docker/docker-architecture.html | Docker 架构 | 菜鸟教程
+http://www.docker.org.cn/ | docker中文社区,docker帮助,docker手册,docker教程,docker安装手册 - docker中文社区
+https://www.zhihu.com/question/22969309 | (1 封私信 / 22 条消息)Docker 的应用场景在哪里？ - 知乎
+http://www.infoq.com/cn/articles/docker-core-technology-preview | 深入浅出Docker（一）：Docker核心技术预览
+https://segmentfault.com/a/1190000012281876 | Java笔记-反射机制(一) - 凯伦说 - SegmentFault
+http://www.codeceo.com/article/7-java-question-in-stackoverflow.html | StackOverflow:7个你从未见过的Java问题最佳答案 – 码农网
+http://www.codeceo.com/article/a-generic-and-concurrent-object-pool.html | 用Java实现一个通用并发对象池 – 码农网
+http://www.codeceo.com/article/tuning-garbage-collection-for-mission-critical-java-applications-part-one.html | 为任务关键型Java应用优化垃圾回收（上） – 码农网
+
+https://zhuanlan.zhihu.com/p/46191157 | 为什么我们做分布式使用 Redis ？
+
+https://zhuanlan.zhihu.com/p/45856871 | 随机数使用不当引发的生产bug
+https://zhuanlan.zhihu.com/p/45231073 | Java并发编程-volatile可见性的介绍
+https://zhuanlan.zhihu.com/p/45067134 | 记一次接口压力测试与性能调优
+https://blog.csdn.net/songhaifengshuaige/article/details/54176520 | SpringBoot集成ActiveMQ - CSDN博客
+https://blog.csdn.net/u013115157/article/details/79413429 | SpringBoot整合ActiveMq要分以下几个步骤： - CSDN博客
+https://blog.csdn.net/smartdt/article/details/78963897 | SpringBoot之ActiveMQ的支持 - CSDN博客
+https://blog.csdn.net/qiangcuo6087/article/details/79041997 | 实力干货！SpringBoot JMS(ActiveMQ) 使用实践 - CSDN博客
+https://blog.csdn.net/he15936938636/article/details/80042826 | springboot整合activemq踩过坑 - CSDN博客
+https://blog.csdn.net/qq_28423433/article/details/77948053 | spring boot 集成 activeMQ 传输序列化对象 - CSDN博客
+https://blog.csdn.net/qq_34021712/article/details/77540452 | (八)Spring Boot整合ActiveMQ - CSDN博客
+https://blog.csdn.net/y670340559/article/details/77867858 | spring boot 整合 activiti 踩过的坑 （持续更新） - CSDN博客
+https://blog.csdn.net/weisg81/article/details/79506752 | SpringBoot整合ActiveMq - CSDN博客
+https://blog.csdn.net/qq_37421862/article/details/81866432 | Spring-boot下使用webSocket - CSDN博客
+https://blog.csdn.net/liboyang71/article/details/78869135 | Java ActiveMQ简介以及springboot集成activeMQ实现消息队列监听以及实现MQ延迟 - CSDN博客
+
+https://blog.csdn.net/Ouyzc/article/details/79756574 | JMS消息服务入门讲解，SpringBoot集成ActiveMQ的实现【集成篇】 - CSDN博客
+http://www.codeceo.com/article/from-3000-to-15-rows-code.html | 从把三千行代码重构成15行代码谈起 – 码农网
+http://www.codeceo.com/article/reflect-bad.html | 反射是否真的会让你的程序性能降低? – 码农网
+https://github.com/FlyingShit-XinHuang/auth-server | GitHub - FlyingShit-XinHuang/auth-server
+
+http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/ | Spring Cloud基础教程 | 程序猿DD
+https://blog.csdn.net/forezp/article/details/70148833 | 史上最简单的 SpringCloud 教程 | 终章 - CSDN博客
+https://www.cnblogs.com/qjjazry/p/6581568.html | Java并发问题--乐观锁与悲观锁以及乐观锁的一种实现方式-CAS - 拉夫德尔 - 博客园
+http://jinnianshilongnian.iteye.com/blog/2038646 | 第十七章 OAuth2集成——《跟我学Shiro》 - 《亿级流量网站架构核心技术》~ - ITeye博客
+http://www.what21.com/sys/java_java-frame_1479364086506.html | Java创建Sample SAML 2.0 AuthnRequest | 小奋斗知识 | IT小奋斗
+https://github.com/vicioushare/spring-loaded | GitHub - vicioushare/spring-loaded: Java agent that enables class reloading in a running JVM
+https://blog.csdn.net/u013613428/article/details/51499911 | 如何用HotSwapAgent和DCEVM让java开发像js开发一样高效（JRebel的替代方案） - CSDN博客
+https://blog.csdn.net/littleschemer/article/details/51645722 | hotswapagent——热更新代码而无需重启生产环境 - CSDN博客
+https://www.ilanni.com/?p=13775 | 烂泥：OpenLDAP安装与配置-烂泥行天下
+https://blog.csdn.net/aishangyutian12/article/details/52950324 | 关键业务系统的JVM参数推荐(2016热冬版) - CSDN博客
+https://blog.csdn.net/forezp/article/details/69696915 | 史上最简单的 SpringCloud 教程 | 第一篇： 服务的注册与发现（Eureka） - CSDN博客
+
+https://zhuanlan.zhihu.com/p/40672116 | 第九章：Spring的简单使用和手写BeanFactory
+http://www.codeceo.com/article/java-compress-performance.html | Java不同压缩算法的性能比较 – 码农网
+http://www.codeceo.com/article/java-arraylist-remove-duplicate-ele.html | Java删除ArrayList中的重复元素的2种方法 – 码农网
+http://www.codeceo.com/article/9-java-null-tips.html | Java中有关Null的9件事 – 码农网
+http://www.codeceo.com/article/java-8-hashmap-performance.html | Java 8中HashMap的性能提升 – 码农网
+http://www.codeceo.com/article/java-8-enum.html | 在Java 8下更好地利用枚举 – 码农网
+http://www.codeceo.com/article/java-error-detect.html | 在异步Java代码中解救已检测异常 – 码农网
+http://www.codeceo.com/article/java-model-sys.html | Java 模块化系统初探 – 码农网
+http://www.codeceo.com/article/10-java8-lambda-demos.html | 10个Java 8 Lambda表达式经典示例 – 码农网
+
+https://gitee.com/52itstyle/spring-boot-seckill | 小柒2012/spring-boot-seckill: 从0到1构建分布式秒杀系统，脱离案例讲架构都是耍流氓
+https://zhuanlan.zhihu.com/p/43023436 | 外行人都能看懂的SpringCloud，错过了血亏！
+http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/ | Spring Boot基础教程 | 程序猿DD
+http://blog.didispace.com/springbootdata1/ | Spring Boot中使用JdbcTemplate访问数据库 | 程序猿DD
+http://www.ityouknow.com/springcloud/2017/05/01/simple-springcloud.html | springcloud(一)：大话Spring Cloud - 纯洁的微笑博客
+https://www.cnblogs.com/woshimrf/tag/SpringCloud/ | SpringCloud - 标签 - Ryan.Miao - 博客园
+https://www.cnblogs.com/huangjuncong/tag/SpringCloud/ | SpringCloud - 标签 - 狂小白 - 博客园
+https://github.com/ZhongFuCheng3y/msc-Demo/tree/master/microservicecloud | msc-Demo/microservicecloud at master · ZhongFuCheng3y/msc-Demo · GitHub
+
+https://zhuanlan.zhihu.com/p/42067699 | 【Java】留下没有基础眼泪的面试题
+http://www.codeceo.com/article/java-jni-usage.html | Java 本地接口 JNI 使用详解 – 码农网
+https://www.cnblogs.com/wonglu/p/5901356.html | Spark认识&环境搭建&运行第一个Spark程序 - 牛仔裤的夏天 - 博客园
+http://www.powerxing.com/install-hadoop-in-centos/ | Hadoop安装教程_单机/伪分布式配置_CentOS6.4/Hadoop2.6.0_给力星
+http://www.powerxing.com/install-hadoop/ | Hadoop安装教程_单机/伪分布式配置_Hadoop2.6.0/Ubuntu14.04_给力星
+http://www.powerxing.com/spark-quick-start-guide/ | Spark快速入门指南 – Spark安装与基础使用_给力星
+http://hzy0769.iteye.com/blog/2296997 | OAuth2.0原理与简单实现演示 - - ITeye博客
+http://www.codeceo.com/article/java-oauth-2-0-password.html | Java OAuth 2.0 客户端编程（一）: 资源所有者密码凭据授权 – 码农网
+https://blog.csdn.net/jing12062011/article/details/78147306/ | Java的oauth2.0 服务端与客户端的实现 - CSDN博客
+https://www.cnblogs.com/hujunzheng/p/7126766.html?utm_source=debugrun&utm_medium=referral | oauth简单使用 - 小眼儿 - 博客园
