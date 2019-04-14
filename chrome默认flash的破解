@@ -1,0 +1,6 @@
+众所周知，现在的flash，搞了个区域限制，用中文版的，会有个进程在那里胡球整。删除那个垃圾程序的话，会提示你flash需要重新安装。
+找了下，发现一个好用的chrome的内置flash的破解。
+
+下载压缩包: https://github.com/bewlief/MyRepo/blob/master/attached%20files/chrome64bit.7z
+覆盖到 C:\Users\dutbo\AppData\Local\Google\Chrome\User Data\PepperFlash\32.0.0.171，这是我的chrome数据路径
+即可！
