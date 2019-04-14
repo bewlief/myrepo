@@ -1,2 +1,2 @@
-#索引
-chrome内置flash的破解
+# 索引
++ chrome内置flash的破解
