@@ -1,0 +1,14 @@
+原文： http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
+1. 在浏览器中输入一个url，例如 facebook.com，然后回车
+2. 浏览器会首先探查到这个url对应的domain
+  第一步是要找到这个url对应的服务器的ip地址，即DNC解析。浏览器会依次查找：
+  1）浏览器的缓存：浏览器会吧DNS数据做一定时间的缓存，有趣的是，操作系统并不告知浏览器缓存的时间，
+  因此，浏览器会自己决定缓存多久，不同的浏览器是不同的，一般在2~30分钟内。
+3. 浏览器发送HTTP request到web服务器
+4 facebook的server返回一个跳转
+5 浏览器跟随跳转
+6 服务器处理请求
+7 服务器返回一个http response
+8 浏览器解析生成HTML
+9 浏览器再次发出请求
+10 浏览器发送同步请求
