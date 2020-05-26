@@ -1,9 +1,11 @@
 https://www.php.cn/web/web-http.html
-#1xx 临时响应  
+#1xx 临时响应
 ##100 Continue 继续
 服务器已经收到了请求的第一部分，现正在等待接受其余部分
+
 ##101 Switching Protocols 切换协议
 请求者已要求服务器切换协议，服务器已确认并准备进行切换
+
 #2xx 成功  
 ##200 OK 成功
 服务器已成功处理了请求
