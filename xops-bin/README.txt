@@ -15,4 +15,4 @@
 + figlet
 等等
 
-详细情况可参见 xshell/readme.md
+详细情况可参见 https://github.com/bewlief/xshell/blob/main/readme.md 
