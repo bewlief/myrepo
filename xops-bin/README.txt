@@ -1,39 +1,18 @@
-PuTTY README
-============
+本目录是我收集的适用于windows平台的命令行工具，包括：
++ putty的各可执行程序
++ jq：json解析
++ shfmt*：shell的format
++ xml： xml解析
++ zstd：
++ winhex：经典的十六进制编辑
++ lsof：from sysinternals, handle64.exe, https://docs.microsoft.com/en-us/sysinternals/downloads/
++ rsync
++ upx：压缩可执行程序
++ junction
++ mmt
++ xxd
++ tree
++ figlet
+等等
 
-This is the README file for the PuTTY MSI installer distribution. If
-you're reading this, you've probably just run our installer and
-installed PuTTY on your system.
-
-What should I do next?
-----------------------
-
-If you want to use PuTTY to connect to other computers, or use PSFTP
-to transfer files, you should just be able to run them from the
-Start menu.
-
-If you want to use the command-line file transfer utility PSCP, you
-will need to run this from a Command Prompt or equivalent, because it
-will not do anything useful without command-line options telling it
-what files to copy to and from where. You can do this by just running
-the command 'pscp' from a Command Prompt, if you used the installer's
-option to put the PuTTY installation directory on your PATH.
-Alternatively, you can always run pscp.exe by its full pathname, e.g.
-"C:\Program Files\PuTTY\pscp.exe".
-
-(Note that a Command Prompt that was already open before you ran the
-installer will not have inherited the update of PATH.)
-
-What do I do if it doesn't work?
---------------------------------
-
-The PuTTY home web site is
-
-    https://www.chiark.greenend.org.uk/~sgtatham/putty/
-
-Here you will find our list of known bugs and pending feature
-requests. If your problem is not listed in there, or in the FAQ, or
-in the manuals, read the Feedback page to find out how to report
-bugs to us. PLEASE read the Feedback page carefully: it is there to
-save you time as well as us. Do not send us one-line bug reports
-telling us `it doesn't work'.
+详细情况可参见 xshell/readme.md
