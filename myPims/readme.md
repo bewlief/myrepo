@@ -21,7 +21,7 @@
 <p align='center'><img src='https://github.com/bewlief/MyRepo/blob/master/myPims/20141011131715599.png' title='images' style='max-width:600px'></img></p>
 
 笔记的界面，左侧为目录树，无限层次结构。
-<p align='center'><img src='https://github.com/bewlief/MyRepo/blob/master/myPims/20141011131720029.png' title='images' style='max-width:600px'></img></p>
+<p align='center'><img src='https://github.com/bewlief/myrepo/blob/master/myPims/20141011131720029.png' title='images' style='max-width:600px'></img></p>
 
 
 
