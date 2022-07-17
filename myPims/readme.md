@@ -4,7 +4,7 @@
 
 放截图，宣传一下。
 
-一直在完善中，哈。 从这里下载最新版：https://github.com/bewlief/MyRepo/blob/master/myPims/mypims.zip [2020/05/01 更新]
+一直在完善中，哈。 从这里下载最新版：https://github.com/bewlief/MyRepo/blob/master/myPims/mypims.zip [最后更新日期： 20220717]
 
 
 注：截图是以前的，和现在的版本稍有差别哦。
