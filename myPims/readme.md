@@ -1,8 +1,17 @@
 # myPims： my Personal Infomarion Management Software
-## 功能说明
+## 简单说明
 自己写的一个记事本程序，用于写日记，笔记，记录密码，查看日历，记录假期纪念日等，个人一直在使用着，已经写了从04年到现在几千篇日记了，还是蛮好用的。
 
 放截图，宣传一下。
+
+## 开发工具
+使用dephi开发，最早是delphi6，到7，后来升级到xe2。
+
+目前保留了一个win7的虚拟机专门用于mypims的维护。尝试了多次，由于使用了多个外部控件，一直没有在win10下搭建起开发环境，后来也懒得继续折腾，就保留了win7了。
+
+数据库使用 absoluteDb，一个桌面版文件数据库。
+
+## 截图
 
 一直在完善中，哈。 从这里下载最新版：https://github.com/bewlief/MyRepo/blob/master/myPims/mypims.zip [2020/05/01 更新]
 
